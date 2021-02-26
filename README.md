@@ -1,9 +1,16 @@
 #
- ## Oi Meu nome é Mateus!
-      Obrigado por vi até o meu perfil profissional, não esquece de seguir e deixar seu feedback.Irei te contar um 
-      pouco da minha vida profissional.
-  > ### ___Ferramentas___
-* Git/Git hub
-> ### ***__Linguagens__***
+ ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo***
+      Fico feliz  por sua visita aqui no perfil, não deixe de seguir, assim saberei que visualizou.Deixe seu  feedbeck !OK?.logo abaixo,te contarei um pouco da minha vida profissional.
+  > ### __Ferramentas__
+* 
 
-  > ### ---Especialidades___
+*
+> ### __Linguagens__
+* ___C___
+*
+
+  > ### __Estudando__
+  *  ___Python___
+  *  ___Banco de Dados___
+  *  ___Estrutura de Dados___
+     
