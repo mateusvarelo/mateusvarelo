@@ -1,9 +1,6 @@
 #
  ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo *** 
-
-    
-    Fico feliz  por sua visita aqui no perfil, não deixe de seguir, assim saberei que visualizou.Deixe seu  feedbeck !OK?.logo abaixo,te contarei um pouco da minha vida profissional.
-      
+ <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
   ----
   ----
   > ### __Ferramentas__
