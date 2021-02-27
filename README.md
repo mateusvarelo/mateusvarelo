@@ -1,23 +1,23 @@
 #
- ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo*** 
+ ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo*** :point_left:
      Em desenvolvimento!
  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/mateusvarelo/blob/main/linkedin.png" width="16"></img>
 </a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
   ----
   ----
   > ### __Ferramentas__
-* ___Git/GitHub___
+* *Git/GitHub*
 
 
-> ### ___Linguagens___
-* ___C___
-* ___Python___
+> ### __Linguagens__
+* *C*
+* *Python*
 
 > ### __Estudando__
-*  ___Orientação a Objetos___
-*  ___Banco de Dados___
-*  ___Estrutura de Dados___   
-*  ___Protocolos de Internet___
+*  *Orientação a Objetos*
+*  *Banco de Dados*
+*  *Estrutura de Dados*  
+*  *Protocolos de Internet*
 
   --------
   --------
@@ -29,5 +29,6 @@
      </tr>   
 </table>
 </center> 
+
 
     
