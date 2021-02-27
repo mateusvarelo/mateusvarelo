@@ -1,6 +1,6 @@
 #
  ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo *** 
- <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
+ <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/mateusvarelo/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
   ----
   ----
   > ### __Ferramentas__
