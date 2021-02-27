@@ -1,18 +1,27 @@
 #
- ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo***
-      Fico feliz  por sua visita aqui no perfil, não deixe de seguir, assim saberei que visualizou.Deixe seu  feedbeck !OK?.logo abaixo,te contarei um pouco da minha vida profissional.
-  > ### __Ferramentas__
-* 
+ ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo *** 
 
-*
+    
+    Fico feliz  por sua visita aqui no perfil, não deixe de seguir, assim saberei que visualizou.Deixe seu  feedbeck !OK?.logo abaixo,te contarei um pouco da minha vida profissional.
+      
+  ----
+  ----
+  > ### __Ferramentas__
+* ___Git/GitHub___
+
+
 > ### __Linguagens__
 * ___C___
-*
+* ___Python___
 
-  > ### __Estudando__
-  *  ___Python___
-  *  ___Banco de Dados___
-  *  ___Estrutura de Dados___
+> ### __Estudando__
+*  ___Orientação a Objetos___
+*  ___Banco de Dados___
+*  ___Estrutura de Dados___   
+*  ___Protocolos de Internet___
+
+  --------
+  --------
 <center>
 <table>
     <tr>
@@ -21,4 +30,5 @@
      </tr>   
 </table>
 </center> 
+
     
