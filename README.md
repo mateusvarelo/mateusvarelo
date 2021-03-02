@@ -6,8 +6,11 @@
 <img src="meureadme.jpg" width = 280 align = left>
   ----
   ----
+  <div style='text-align:right'> 
   > ### __Ferramentas__
-* *Git/GitHub*
+
+* 
+*Git/GitHub*
 
 
 > ### __Linguagens__
@@ -19,7 +22,7 @@
 *  *Banco de Dados*
 *  *Estrutura de Dados*  
 *  *Protocolos de Internet*
-
+</div>
   --------
   --------
 <center>
