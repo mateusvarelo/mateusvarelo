@@ -6,7 +6,7 @@
 <img src="meureadme.jpg" width = 280 align = left>
   ----
   ----
-  <div style= text- align :right> 
+  <div style= 'text- align :right'> 
  
   > ### __Ferramentas__
 
