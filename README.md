@@ -22,7 +22,10 @@
 > ### __Estudando__
 *  *Orientação a Objetos*
 *  *Banco de Dados*
-*  *Estrutura de Dados*  
+    * Conceito é Modelagem 
+*  *Estrutura de Dados* 
+    * Fila
+    * Pilha 
 *  *Protocolos de Internet*
 
   --------
