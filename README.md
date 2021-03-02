@@ -15,18 +15,20 @@
 * *Git/GitHu-basico*
 
 
-> ### __Linguagens__
+> ### __Conhecimento__
 * *C*
 * *Python*
 
-> ### __Estudando__
+> ### __Estudando/Faculdade__
 *  *Orientação a Objetos*
+    * Java
 *  *Banco de Dados*
-    * Conceito é Modelagem 
+    * Conceito é Modelagem/MySQl 
 *  *Estrutura de Dados* 
     * Fila
     * Pilha 
 *  *Protocolos de Internet*
+*  *Avançando com Git*   
 
   --------
   --------
