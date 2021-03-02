@@ -3,7 +3,7 @@
      Em desenvolvimento!
  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/mateusvarelo/blob/main/linkedin.png" width="16"></img>
 </a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
-<img src="meureadme.jpg" width = 400 align = right>
+<img src="meureadme.jpg" width = 320 align = right>
   ----
   ----
   > ### __Ferramentas__
