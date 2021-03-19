@@ -1,10 +1,11 @@
-#
- ## Oi! Vem sempre aqui?Meu nome é ***Mateus Varelo*** :point_left:
+### Uma breve descrição:
+####   :point_left
+ 
      Em desenvolvimento!
  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/mateusvarelo/blob/main/linkedin.png" width="16"></img>
 </a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
 
-<img src="meureadme.jpg" width = 280 align = right>
+<img src="meureadme.jpg" width = 300 align = right>
   
   ----
   ----
@@ -12,23 +13,16 @@
  
   > ### __Ferramentas__
 
-* *Git/GitHu-basico*
-
+* *Git*
 
 > ### __Conhecimento__
-* *C*
-* *Python*
-
-> ### __Estudando/Faculdade__
-*  *Orientação a Objetos*
-    * Java
-*  *Banco de Dados*
-    * Conceito é Modelagem/MySQl 
-*  *Estrutura de Dados* 
-    * Fila
-    * Pilha 
-*  *Protocolos de Internet*
-*  *Avançando com Git*   
+* Python
+* C
+> ### __Estudando__
+*  Orientação a Objetos(Python)
+*  Banco de Dados
+*  Conceito é Modelagem/MySQl 
+*  Estrutura de Dados  
 
   --------
   --------
