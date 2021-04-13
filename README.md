@@ -1,29 +1,31 @@
 ### Hi!  :point_left
 ####   
 </a>
-<img src="giphy.gif" width = 400>
+<img src="giphy.gif" width = 350>
 
   ----
   ----
 
- <img src="cafeprogramador.gif" width = 200  align ="Right" >
+
   
-  > ### __Ferramentas__
+  > ### __Ferramentas__   
+  <img src="cafeprogramador.gif" width = 200  align ="Right" >
 
 * *Git*
-* *Github*
+* *Github*  
 * *Python*
 * *C*
 
 > ### __Skill__
 * *API*
-* *Metologias Agil*
+* *Metodologia Ágil*
+    * *Scrum*
 > ### __Estudando__
 
-*  __Banco de Dados__
+*  _Banco de Dados_
    * *MER/MySQl* 
    * *PostgreSQL*  
-*   POO
+*   _POO_
   --------
   --------
 <center>
