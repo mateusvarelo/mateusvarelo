@@ -31,9 +31,11 @@
   --------
   <img src="cafeprogramador.gif" width = 200  align ="Right" >
 
-  ### Conexões:
-  
+  > ### Conexões:
 
+ <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
+  <img src="https://www.flaticon.com/br/icone-gratis/linkedin_174857?related_id=174857&origin=pack" >
+</a>
 <center>
 <table>
     <tr>
