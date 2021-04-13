@@ -1,7 +1,7 @@
 ### Hi ..:)   
 
 
-<img src="gif_readme.gif" width = 250 align = "Right">
+
 
   ----
   ----
@@ -9,7 +9,8 @@
 
   
   > ### __Ferramentas__   
-  <img src="cafeprogramador.gif" width = 200  align ="Right" >
+  <img src="gif_readme.gif" width = 230 align = "Right">
+  
 
 * *Git*
 * *Github*  
@@ -28,6 +29,11 @@
 *   _POO_
   --------
   --------
+  <img src="cafeprogramador.gif" width = 200  align ="Right" >
+
+  ### Conexões:
+  
+
 <center>
 <table>
     <tr>
