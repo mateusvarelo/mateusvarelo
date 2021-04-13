@@ -1,29 +1,29 @@
-### Uma breve descrição:
-####   :point_left
- 
-     Em desenvolvimento!
- <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/"><img src="https://github.com/mateusvarelo/mateusvarelo/blob/main/linkedin.png" width="16"></img>
-</a> [LinkedIn](https://www.linkedin.com/in/mateus-varelo-492180aa/)  
+### Hi!  :point_left
+####   
+</a>
+<img src="giphy.gif" width = 400>
 
-<img src="meureadme.jpg" width = 300 align = right>
+  ----
+  ----
+
+ <img src="cafeprogramador.gif" width = 200  align ="Right" >
   
-  ----
-  ----
-
- 
   > ### __Ferramentas__
 
 * *Git*
+* *Github*
+* *Python*
+* *C*
 
-> ### __Conhecimento__
-* Python
-* C
+> ### __Skill__
+* *API*
+* *Metologias Agil*
 > ### __Estudando__
-*  Orientação a Objetos(Python)
-*  Banco de Dados
-*  Conceito é Modelagem/MySQl 
-*  Estrutura de Dados  
 
+*  __Banco de Dados__
+   * *MER/MySQl* 
+   * *PostgreSQL*  
+*   POO
   --------
   --------
 <center>
