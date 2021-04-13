@@ -35,11 +35,11 @@
 
 
  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
-  <img src="linkedin.png" width = 18>
+  <img src="linkedin.png" width = 18 align = "left">
 </a>
 
  <a href="https://www.instagram.com/mateusvar/?hl=pt-br">
-  <img src="instagram.png" width = 18 align = "Right">
+  <img src="instagram.png" width = 18 align = "left">
 </a>
 
 <center>
