@@ -33,9 +33,15 @@
 
   > ### Conexões:
 
+
  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
-  <img src="https://www.flaticon.com/br/icone-gratis/linkedin_174857?related_id=174857&origin=pack" >
+  <img src="linkedin.png" width = 18>
 </a>
+
+ <a href="https://www.instagram.com/mateusvar/?hl=pt-br">
+  <img src="instagram.png" width = 18 align = "Right">
+</a>
+
 <center>
 <table>
     <tr>
