@@ -1,7 +1,7 @@
 ### Hi!  :point_left
 ####   
 </a>
-<img src="giphy.gif" width = 350>
+<img src="giphy.gif" width = 300 align = "center">
 
   ----
   ----
