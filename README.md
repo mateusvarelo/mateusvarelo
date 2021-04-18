@@ -47,12 +47,13 @@ Produzir, compartilhar conhecimento, tecnologia e muito prazeroso.
 Developer 🚀
 
  > ### Onde me encontrar ?
+
 <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
-  <img src="linkedinn.png" width = 18 align = "Right">
+  <img src="linkedinn.png" width = 18 align = "left">
 </a>
 
  <a href="https://www.instagram.com/mateusvar/?hl=pt-br">
-  <img src="instagramm.png" width = 18 align = "Right">
+  <img src="instagramm.png" width = 18 align = "left">
 </a>
 
     
