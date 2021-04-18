@@ -36,13 +36,27 @@
 
 
  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
-  <img src="linkedin.png" width = 18 align = "left">
+  <img src="linkedinn.png" width = 18 align = "center">
 </a>
 
  <a href="https://www.instagram.com/mateusvar/?hl=pt-br">
-  <img src="instagram.png" width = 18 align = "left">
+  <img src="instagramm.png" width = 18 align = "center">
 </a>
 
+
+### __Sobre:__
+Técnico em Redes de Computadores onde tive meus primeiros contatos com programação, escola técnica do Ceará. 
+
+Hoje estou no terceiro período da graduação em Análise e Desenvolvimento de Sistemas, e como curso de  especialização de Ciências de Dados💚.  
+
+O sentimento hoje, que fiz a escolha certa ao ir para área de TI. Sentir que podemos construir algo para as pessoas e muito bom.
+  
+ 
+
+Produzir, compartilhar conhecimento, tecnologia e muito prazeroso.
+Developer 🚀
+
+    
 <center>
 <table>
     <tr>
