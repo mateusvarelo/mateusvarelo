@@ -11,24 +11,27 @@
   > ### __Ferramentas__   
   <img src="gif_readme.gif" width = 230 align = "Right">
   
-
 * *Git*
 * *Github*  
 * *Python*
 * *C*
+* *Docker*
+* *PostgreSQL*
+* *Linux*
 
-> ### __Skill__
-* *API*
+> ### __Solft Skill__
 * *Metodologia Ágil*
     * *Scrum*
+    * *kanbam*    
 > ### __Estudando__
 
 *  _Banco de Dados_
-   * *MER/MySQl* 
-   * *PostgreSQL*  
+   * MER/MySQl
 *   _POO_
-*  _Docker_
-  --------
+*  *NoSql*
+     * DynamoDb
+*  *Visualização de dados/Dashboard*
+ --------
   --------
   <img src="cafeprogramador.gif" width = 200  align ="Right" >
 
@@ -36,7 +39,7 @@
 ### __Sobre:__
 Estudante de __data science__ e graduando em Analise e Desenvolvimento de Sistemas
 
-Um Cearense no Rio de Janeiro, sou atualmente entregador, estudando Tecnólogia em buscar de oportunidades.
+Um Cearense no Rio de Janeiro, sou atualmente entregador, estudando Tecnólogia em busca de oportunidades.
 
 Amo conhecer novas pessoas! Simpatia, empatia, novos desafios, fazem partes da minha carreira.
 
