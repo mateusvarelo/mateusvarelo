@@ -8,7 +8,7 @@
 
 
   
-  > ### __Ferramentas__   
+  > ### __Ferramentas/Hard Skill__   
   <img src="gif_readme.gif" width = 230 align = "Right">
   
 * *Git*
@@ -18,6 +18,9 @@
 * *Docker*
 * *PostgreSQL*
 * *Linux*
+* *Web scraping*
+* *Consumer API Rest*
+* *Json-CSV*
 
 > ### __Solft Skill__
 * *Metodologia Ágil*
@@ -25,11 +28,12 @@
     * *kanbam*    
 > ### __Estudando__
 
-*  _Banco de Dados_
-   * MER/MySQl
-*   _POO_
-*  *NoSql*
+*  _SQL_
+   * ER/MySQl
+* *NoSql*
      * DynamoDb
+*   _POO_
+  
 *  *Visualização de dados/Dashboard*
  --------
   --------
