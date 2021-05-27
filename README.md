@@ -22,7 +22,7 @@
 * *Consumer API Rest*
 * *Json-CSV*
 
-> ### __Solft Skill__
+> ### __Soft Skill__
 * *Metodologia Ágil*
     * *Scrum*
     * *kanbam*    
