@@ -39,18 +39,13 @@ else:
     <img src="img/email.png" width = 18 align = "left">
   </a>
 
-
-
-
-
-  ----
-  ----
-
-
-  
-
-    
   <img src="img/gif_readme.gif" width = 230 align = "Right">
+
+
+
+  ----
+  ----
+
 
   > #### __Habilidades__ 
 
