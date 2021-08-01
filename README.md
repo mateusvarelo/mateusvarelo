@@ -1,24 +1,34 @@
 #### Hi ..:)   
 
 ![](img/giphy.gif)
-`resposta = input('Um pouco sobre mim?')`
 
-`if (resposta == 'Sim'):`
+```python
+resposta = input`('Um pouco sobre mim?')
+if resposta == 'sim':
+  print('Vamos lá então!')
+```
+Primeiro contato com tecnologia  foi em 2013 na escola técnica do Estado Ceará [aqui](https://www.instagram.com/eeepfmm/  'Conheça essa escola que me proporcionou os melhores conhecimentos , pilarpara os próxuimos passos') no curso de __Redes de computadores__
 
-  Primeiro contato com tecnologia  foi em 2013 na escola técnica do Estado Ceará [aqui](https://www.instagram.com/eeepfmm/  'Conheça essa escola que me proporcionou os melhores conhecimentos , pilarpara os próxuimos passos') no curso de __Redes de computadores__
+Graduando em __Analise e Desenvolvimento de Sistemas__ na universidade [Unicarioca](https://www.unicarioca.edu.br/ 'Aqui você encontra detalhes sobre minha faculdade :)')
 
-  Graduando em __Analise e Desenvolvimento de Sistemas__ na universidade [Unicarioca](https://www.unicarioca.edu.br/ 'Aqui você encontra detalhes sobre minha faculdade :)')
+Um Cearense no Rio de Janeiro, sou atualmente entregador, estudando Tecnólogia em busca de oportunidades.
 
-```Um Cearense no Rio de Janeiro, sou atualmente entregador, estudando Tecnólogia em busca de oportunidades.```
+Amo conhecer novas pessoas! Simpatia, empatia, novos desafios, fazem partes da minha carreira, um ponto importante é o apredizagem rapido, pois bemjá ouvi outras pessoas falando dessa minha habilidade que para mim é magnifico.
 
-  Amo conhecer novas pessoas! Simpatia, empatia, novos desafios, fazem partes da minha carreira, um ponto importante é o apredizagem rapido, pois bemjá ouvi outras pessoas falando dessa minha habilidade que para mim é magnifico.
-
-  O sentimento hoje é que fiz a escolha certa ao ir para área de TI. Sentir que podemos construir algo para as pessoas e muito bom.
+O sentimento hoje é que fiz a escolha certa ao ir para área de TI. Sentir que podemos construir algo para as pessoas e muito bom.
     
 
-  Produzir, compartilhar conhecimento, tecnologia e muito prazeroso.
-  Developer 🚀
-`else:`
+Produzir, compartilhar conhecimento, tecnologia e muito prazeroso.
+Developer 🚀
+
+```python
+espectativa = True
+while espectativa:
+   print("Nunca desistir")
+else:
+   print('Tentar novamente)
+   continue
+```
   > ##### Contato: 
 
   <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
