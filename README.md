@@ -43,10 +43,12 @@ else:
 
 
 
-  ----
-  ----
+   
 
 
+
+--------
+--------
   > #### __Habilidades__ 
 
   | __Linguagem Programação__   | __Banco de dados__   | __Análise de Dados__   |  __Habilidades Auxiliares__ | __Estudando__ |
