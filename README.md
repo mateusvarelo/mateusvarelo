@@ -31,15 +31,17 @@ Developer 🚀
 
 
   
-  > #### __Habilidades__ 
+
     
   <img src="img/gif_readme.gif" width = 230 align = "Right">
 
+  > #### __Habilidades__ 
+
   | __Linguagem Programação__   | __Banco de dados__   | __Análise de Dados__   |  __Habilidades Auxiliares__ | __Estudando__ |
   |:-----------------------:|:----:|:------------------:|:------------------------:|:----------:|
-  |   *Python*             |   *SQL-PostgreSQL*    | *Tableau-Visualização de dados*             |         *Git*            |
-  |    *C*                  |      |                    |         *GitHub*         |
-  |       |      |                    |         *JSON-CSV*       |
+  |   *Python*             |   *SQL*    | *Tableau*             |         *Git*            |    
+  |    *C*                   |   *PostgreSQL*   |    *Bibliotecas cientificas python*                |         *GitHub*         |
+  |                        |      |                    |         *JSON-CSV*       |
   |                        |      |                    |         *DOCKER*         |
   |                        |      |                    |         *API RestFull*   |   |                         |      |                    |         *Scrum*          |
   |                         |      |                    |         *Kanban/Trello*  |
