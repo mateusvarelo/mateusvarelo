@@ -1,33 +1,36 @@
 #### Hi ..:)   
 
 ![](img/giphy.gif)
-#### **Quem é o Mateus?**
-Primeiro contato foi em 2013 na escola técnica do Estado Ceará [aqui](https://www.instagram.com/eeepfmm/  'Conheça essa escola que me proporcionou os melhores conhecimentos , pilarpara os próxuimos passos') no curso de __Redes de computadores__
+### **Um pouco sobre mim?**
+`if (resposta == 'Sim'):`
 
-Graduando em __Analise e Desenvolvimento de Sistemas__ na universidade [Unicarioca](https://www.unicarioca.edu.br/ 'Aqui você encontra detalhes sobre minha faculdade :)')
+  Primeiro contato com tecnologia  foi em 2013 na escola técnica do Estado Ceará [aqui](https://www.instagram.com/eeepfmm/  'Conheça essa escola que me proporcionou os melhores conhecimentos , pilarpara os próxuimos passos') no curso de __Redes de computadores__
 
-Um Cearense no Rio de Janeiro, sou atualmente entregador, estudando Tecnólogia em busca de oportunidades.
+  Graduando em __Analise e Desenvolvimento de Sistemas__ na universidade [Unicarioca](https://www.unicarioca.edu.br/ 'Aqui você encontra detalhes sobre minha faculdade :)')
 
-Amo conhecer novas pessoas! Simpatia, empatia, novos desafios, fazem partes da minha carreira, um ponto importante é o apredizagem rapido, pois bemjá ouvi outras pessoas falando dessa minha habilidade que para mim é magnifico.
+  Um Cearense no Rio de Janeiro, sou atualmente entregador, estudando Tecnólogia em busca de oportunidades.
 
-O sentimento hoje é que fiz a escolha certa ao ir para área de TI. Sentir que podemos construir algo para as pessoas e muito bom.
-  
+  Amo conhecer novas pessoas! Simpatia, empatia, novos desafios, fazem partes da minha carreira, um ponto importante é o apredizagem rapido, pois bemjá ouvi outras pessoas falando dessa minha habilidade que para mim é magnifico.
 
-Produzir, compartilhar conhecimento, tecnologia e muito prazeroso.
-Developer 🚀
+  O sentimento hoje é que fiz a escolha certa ao ir para área de TI. Sentir que podemos construir algo para as pessoas e muito bom.
+    
 
- > ##### Contato: 
+  Produzir, compartilhar conhecimento, tecnologia e muito prazeroso.
+  Developer 🚀
+`else:`
+  > ##### Contato: 
 
-<a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
-  <img src="img/linkedin.png" width = 18 align = "left">
-</a>
+  <a href="https://www.linkedin.com/in/mateus-varelo-492180aa/">
+    <img src="img/linkedin.png" width = 18 align = "left">
+  </a>
 
-<a href="mateusferreira703@gmail.com">
-  <img src="img/email.png" width = 18 align = "left">
-</a>
+  <a href="mateusferreira703@gmail.com">
+    <img src="img/email.png" width = 18 align = "left">
+  </a>
 
-  ----
-  ----
+
+    ----
+    ----
 
 
   
@@ -54,10 +57,8 @@ Developer 🚀
 
 
 
-  
-
- --------
-  --------
+--------
+--------
   <img src="img/cafeprogramador.gif" width = 200  align ="Right" >
 
  
